@@ -11,7 +11,9 @@ DerBomber é uma ferramenta de envio massivo de e-mails desenvolvida para fins e
 # Tutorial de instalação 
 ### Primeiro, clone o repositório no seu terminal de escolha 
 >git clone https://github.com/CarlosHenri05/DerBomber.git
->cd DerBomber
+
+### Execute o script bomber.bash na pasta /usr/local/bin
+
 
 
 
