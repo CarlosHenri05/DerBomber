@@ -60,7 +60,7 @@ class Bomber:
         try:
             print(bcolors.WARNING + '+[+[+[ Program initializing]+]+]+  ')
             self.options = int(input(bcolors.WARNING + '+[+[+[ Choose options: 1 - 1000msgs | 2 - 500msgs | 3 - 250msgs | 4 - custom'))
-            if int(self.options) > int(4) and int(self.options) < int(1):
+            if int(self.options) > int(4) or int(self.options) < int(1):
                 print("Invalid option, choose again.")
                 sys.exit(0)
             if self.options==4:
