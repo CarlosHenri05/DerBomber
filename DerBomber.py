@@ -95,9 +95,9 @@ class Bomber:
             else: 
                 if self.server in premade_list:
                     case = {
-                        '1': ['smtp.gmail.com', 587 ],
-                        '2': ['smtp.live.com', 587], 
-                        '3': ['smtp.mail.me.com', 587] 
+                        1: ['smtp.gmail.com', 587 ],
+                        2: ['smtp.live.com', 587], 
+                        3: ['smtp.mail.me.com', 587] 
                     }
                     self.smtp_server, self.port = case[self.server]
             print(f"Server: {self.smtp_server} / Port: {self.port}")
@@ -117,11 +117,11 @@ class Bomber:
             self.s.ehlo()
             self.s.login(self.sender, self.password)
             
-            self.msg = f"From: {self.sender}\nTo: {self.target}\n Subject: {self.subject}\n {self.message}"
+            self.msg = f"From: {self.sender}\nTo: {self.target}\nSubject: {self.subject}\n\n{self.message}"
             
-            for i in range(self.amount):
-                self.s.sendmail(self.sender,self.target, self.message)
-                print(bcolors.OKGREEN + f"Message sent {i} times")
+           for i in range(self.amount):
+            self.s.sendmail(self.sender, self.target, self.msg)
+            print(bcolors.OKGREEN + f"Message sent {i + 1} times")
             
             self.s.quit()
             print(bcolors.OKGREEN + r"Attack finished.")
