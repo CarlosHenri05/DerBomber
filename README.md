@@ -3,7 +3,7 @@ DerBomber é uma ferramenta de envio massivo de e-mails desenvolvida para fins e
 
 **Aviso: O uso indevido desta ferramenta é estritamente proibido. O projeto é destinado apenas para fins educacionais e de pesquisa. O desenvolvedor não se responsabiliza por qualquer uso malicioso ou ilegal desta ferramenta.**
 
-Funcionalidades
+*Funcionalidades*
 1. Envio Massivo de E-mails: Permite o envio de uma grande quantidade de e-mails para um único destinatário ou uma lista de destinatários.
 2. Personalização de Mensagens: Oferece a possibilidade de personalizar o assunto e o corpo do e-mail.
 3. Intervalo de Envio: Configuração de intervalos de tempo entre o envio de cada e-mail.
@@ -17,4 +17,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 # Aviso Legal
 Este projeto foi desenvolvido apenas para fins educacionais e de pesquisa. O uso indevido desta ferramenta pode violar leis locais, estaduais, nacionais e internacionais. O desenvolvedor não se responsabiliza por qualquer uso ilegal ou malicioso desta ferramenta. Use por sua própria conta e risco.
 
-DerBomber - Uma ferramenta poderosa para testes de segurança e educação. Use com responsabilidade!
+> DerBomber - Uma ferramenta poderosa para testes de segurança e educação. Use com responsabilidade!
