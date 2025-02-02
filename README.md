@@ -13,6 +13,8 @@ DerBomber é uma ferramenta de envio massivo de e-mails desenvolvida para fins e
 >git clone https://github.com/CarlosHenri05/DerBomber.git
 
 ### Execute o script bomber.bash na pasta /usr/local/bin
+>bomber.bash / Caso esteja na pasta bin
+>./bomber.bash / Caso não esteja na pasta bin
 
 
 
