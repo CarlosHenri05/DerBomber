@@ -8,6 +8,13 @@ DerBomber é uma ferramenta de envio massivo de e-mails desenvolvida para fins e
 2. Personalização de Mensagens: Oferece a possibilidade de personalizar o assunto e o corpo do e-mail.
 3. Intervalo de Envio: Configuração de intervalos de tempo entre o envio de cada e-mail.
 
+# Tutorial de instalação 
+### Primeiro, clone o repositório no seu terminal de escolha 
+>git clone https://github.com/CarlosHenri05/DerBomber.git
+>cd DerBomber
+
+
+
 # Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorar o projeto.
 
