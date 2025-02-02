@@ -12,13 +12,13 @@ Intervalo de Envio: Configuração de intervalos de tempo entre o envio de cada 
 
 Suporte a Múltiplos Servidores SMTP: Permite a utilização de diferentes servidores SMTP para aumentar a eficácia do envio.
 
-#Contribuição
+# Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorar o projeto.
 
-#Licença
+# Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-#Aviso Legal
+# Aviso Legal
 Este projeto foi desenvolvido apenas para fins educacionais e de pesquisa. O uso indevido desta ferramenta pode violar leis locais, estaduais, nacionais e internacionais. O desenvolvedor não se responsabiliza por qualquer uso ilegal ou malicioso desta ferramenta. Use por sua própria conta e risco.
 
 DerBomber - Uma ferramenta poderosa para testes de segurança e educação. Use com responsabilidade!
