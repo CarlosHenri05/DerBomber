@@ -20,6 +20,7 @@ DerBomber é uma ferramenta de envio massivo de e-mails desenvolvida para fins e
 # Erros conhecidos
 
 >SMTPAuthenticationError
+
 Se você se deparar com esse erro, basta utilizar o seu "app password" após ativar a dupla verificação tanto no outlook, gmail e icloud. 
 
 
