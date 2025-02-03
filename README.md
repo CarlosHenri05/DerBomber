@@ -4,9 +4,13 @@ DerBomber é uma ferramenta de envio massivo de e-mails desenvolvida para fins e
 **Aviso: O uso indevido desta ferramenta é estritamente proibido. O projeto é destinado apenas para fins educacionais e de pesquisa. O desenvolvedor não se responsabiliza por qualquer uso malicioso ou ilegal desta ferramenta.**
 
 *Funcionalidades*
-1. Envio Massivo de E-mails: Permite o envio de uma grande quantidade de e-mails para um único destinatário ou uma lista de destinatários.
+1. Envio Massivo de E-mails: Permite o envio de uma grande quantidade de e-mails para um único destinatário.
 2. Personalização de Mensagens: Oferece a possibilidade de personalizar o assunto e o corpo do e-mail.
 3. Intervalo de Envio: Configuração de intervalos de tempo entre o envio de cada e-mail.
+
+*Futuras adições*
+1. Envio massivo para vários destinatários ao mesmo tempo
+2. Escolha de diferentes ports e servers SMTP 
 
 # Tutorial de instalação 
 ### Primeiro, clone o repositório no seu terminal de escolha 
